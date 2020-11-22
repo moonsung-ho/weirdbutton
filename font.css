@@ -1,6 +1,18 @@
 @font-face {
-    font-family: 'hopang';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Samlip_Hopang'), url('./fonts/Samlip_Hopang.ttf') format('truetype');
-  } 
+  font-family: 'SDSamliphopangcheBasic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SDSamliphopangcheTTFBasic'), url('./fonts/SDSamliphopangcheBasic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Regular'), url('./fonts/Metropolis-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'tmon';
+  font-style: normal;
+  font-weight: normal;
+  src: local('TmonMonsoriBlack'), url('./fonts/TmonMonsori.ttf') format('truetype');
+}

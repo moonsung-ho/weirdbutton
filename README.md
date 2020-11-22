@@ -1,2 +1,1 @@
-# weirdbutton
-This is the weird button.
+이 버튼을 눌러서 일어나는 일은 책임지지 않습니다.
